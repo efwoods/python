@@ -1,3 +1,6 @@
 [submodule "Flask-API"]
 	path = Flask-API
 	url = https://github.com/efwoods/Flask-API.git
+[submodule "flask"]
+	path = flask
+	url = https://github.com/efwoods/flask.git
